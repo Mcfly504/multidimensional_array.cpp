@@ -1,1 +1,2 @@
-![Screenshot 2024-03-11 111058](https://github.com/Mcfly504/multidimensional_array.cpp/assets/162492891/a8799e73-38b8-4e78-93cb-68b2a3274651)
+
+![Screenshot 2024-03-11 115551](https://github.com/Mcfly504/multidimensional_array.cpp/assets/162492891/89125652-f771-4d02-ac71-eed499a4419c)
